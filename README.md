@@ -1,7 +1,9 @@
 Para iniciar el proyecto:
 
 git clone git@github.com:jcasadiego/async-platzi.git
+
 cd async-platzi
+
 npm install
  
  ```
