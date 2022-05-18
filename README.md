@@ -1,12 +1,9 @@
 Para iniciar el proyecto:
-
-git clone git@github.com:jcasadiego/async-platzi.git
-
-cd async-platzi
-
-npm install
  
  ```
+git clone git@github.com:jcasadiego/async-platzi.git
+cd async-platzi
+npm install
 
 npm run callback                    //Ṕara correr callback/callback.js
 npm run callback:challenge          //Ṕara correr callback/challenge.js
